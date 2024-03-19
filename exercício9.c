@@ -2,7 +2,8 @@
 int main()
 {
     int atual, nascimento, idadeAnos, idadeMeses, idadeDias;
-    printf("\nDigite o ano atual: ");
+    printf("\n*Calculo de Idade*");
+    printf("\n\nDigite o ano atual: ");
     scanf("%d", &atual);
     printf("\nDigite o seu ano de nascimento: ");
     scanf("%d", &nascimento);
